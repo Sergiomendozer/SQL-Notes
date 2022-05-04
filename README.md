@@ -1,4 +1,4 @@
 # SQL-Notes
-- harvard: https://www.youtube.com/watch?v=TplT4qjz1RQ&list=WL&index=1
+- harvard: https://www.youtube.com/watch?v=Wb0DM9I8RDo&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8&index=8
 - time: 
 - code camp: https://www.youtube.com/watch?v=HXV3zeQKqGY&list=WL&index=3
